@@ -18,7 +18,7 @@ proxies:
   ws-opts:
     path: /
     headers:
-      Host: ''
+      Host: 156.239.224.107
 - name: 🇸🇨 SC 02 - xiaohe
   type: vless
   server: 154.211.8.227
